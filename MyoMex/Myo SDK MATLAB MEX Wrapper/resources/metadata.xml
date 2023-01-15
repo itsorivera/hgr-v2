@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>4bcfc3c2-34fb-4f8d-9906-ca4c26fb5196</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <es_ES>Collection</es_ES>
+    <es_MX>Collection</es_MX>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>Myo SDK MATLAB MEX Wrapper</name>
+  <author>Mark Tomaszewski</author>
+  <version>3.0.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/4bcfc3c2-34fb-4f8d-9906-ca4c26fb5196/426e457e-ec64-d208-0eca-51eb0df2cee4/packages/zip?src=addons_ml_desktop_install&amp;profile_id=11401112&amp;license=40513311&amp;release_family=R2021b</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/4bcfc3c2-34fb-4f8d-9906-ca4c26fb5196/3.0.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/submissions/55817/versions/18/screenshot.png</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/4bcfc3c2-34fb-4f8d-9906-ca4c26fb5196/426e457e-ec64-d208-0eca-51eb0df2cee4/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>
